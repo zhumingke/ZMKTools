@@ -1,0 +1,22 @@
+{
+  "name": "TestDemo",
+  "version": "0.1.0",
+  "summary": "A short description of TestDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhumingke/TestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhumingke": "2107565476@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhumingke/TestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestDemo/Classes/**/*"
+}
